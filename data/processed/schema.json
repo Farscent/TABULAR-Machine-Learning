@@ -1,0 +1,22 @@
+{
+  "raw_feature_order": [
+    "promo_spend_million",
+    "region"
+  ],
+  "raw_dtypes": {
+    "promo_spend_million": "float64",
+    "region": "string"
+  },
+  "transformed_feature_order": [
+    "numeric__promo_spend_million",
+    "categorical__region_Sumatra"
+  ],
+  "target": "monthly_sales_million",
+  "units": "IDR million",
+  "split_sizes": [
+    51,
+    17,
+    18
+  ],
+  "sklearn_version": "1.7.2"
+}

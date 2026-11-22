@@ -1,0 +1,19 @@
+{
+  "selected_model": "Linear regression",
+  "selection_rule": "lowest validation MAE",
+  "feature_order": [
+    "promo_spend_million",
+    "region"
+  ],
+  "target": "monthly_sales_million",
+  "target_units": "IDR million",
+  "refit_rows": 68,
+  "random_state": 42,
+  "versions": {
+    "python": "3.13.3",
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.7.2",
+    "joblib": "1.5.2"
+  }
+}
