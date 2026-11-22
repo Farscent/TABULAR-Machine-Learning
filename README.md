@@ -4,13 +4,13 @@ A personal learning and syntax reference for Python, tabular data analysis, prep
 
 ## Repository contents and learning order
 
-| Notebook | Coverage | Suggested study time |
-|---|---|---|
-| `00_Python_Fundamentals.ipynb` | Python containers and control flow; NumPy; Pandas; plotting; syntax tables | Several 45–60 minute sessions |
-| `01_Exploratory_Data_Analysis.ipynb` | Training-only inspection, quality, statistics, charts, correlation, and EDA decisions | 60–90 minutes |
-| `02_Data_Preprocessing.ipynb` | Splits, missing values, encoding, scaling, outliers, features, selection, pipelines, and artifacts | Two or more sessions |
-| `03_Modeling.ipynb` | Baselines, linear/logistic models, trees, forests, boosting, CV/search, model selection, saving | Two or more sessions |
-| `04_Model_Evaluation.ipynb` | Regression/classification metrics, CV, validation comparison, interpretation, final test reports | Two or more sessions |
+| Notebook | Coverage |
+|---|---|
+| `00_Python_Fundamentals.ipynb` | Python containers and control flow; NumPy; Pandas; plotting; syntax tables | 
+| `01_Exploratory_Data_Analysis.ipynb` | Training-only inspection, quality, statistics, charts, correlation, and EDA decisions |
+| `02_Data_Preprocessing.ipynb` | Splits, missing values, encoding, scaling, outliers, features, selection, pipelines, and artifacts | 
+| `03_Modeling.ipynb` | Baselines, linear/logistic models, trees, forests, boosting, CV/search, model selection, saving | 
+| `04_Model_Evaluation.ipynb` | Regression/classification metrics, CV, validation comparison, interpretation, final test reports |
 
 Each notebook includes learning objectives, explained techniques, runnable examples, interpretations, common mistakes, a Quick Syntax Reference, and three practice exercises. Read the first time in order; later use the headings and tables as a reference.
 
